@@ -412,7 +412,7 @@ img {
 }
 
 .skills__title {
-  font-size: var(--h1-font-size);
+  font-size: var(--h3-font-size);
 }
 
 .skills__subtitle {
@@ -427,7 +427,7 @@ img {
 
 .skills__list {
   row-gap: 1.5rem;
-  padding: 2.7rem;
+  padding-left: 2.7rem;
 }
 
 .skills__titles {
@@ -437,7 +437,7 @@ img {
 }
 
 .skills__name {
-  font-size: var(--small-font-size);
+  font-size: var(--normal-font-size);
   font-weight: var(--font-medium);
 }
 
@@ -469,39 +469,39 @@ img {
   width: 30%;
 }
 
-.skills__react {
+.skills__tailwind {
   width: 60%;
-}
-
-.skills__tailwing {
-  width: 60%;
-}
-
-.skills__bootstrap {
-  width: 60%;
-}
-
-.skills__mern {
-  width: 40%;
 }
 
 .skills__django {
-  width: 70%;
-}
-
-.skills__firebase {
-  width: 50%;
-}
-
-.skills__aws {
   width: 60%;
 }
 
-.skills__linode {
+.skills__nodejs {
+  width: 60%;
+}
+
+.skills__express {
   width: 40%;
 }
 
-.skills__twilio {
+.skills__aws {
+  width: 70%;
+}
+
+.skills__sql {
+  width: 50%;
+}
+
+.skills__mysql {
+  width: 60%;
+}
+
+.skills__mongodb {
+  width: 40%;
+}
+
+.skills__postgress {
   width: 70%;
 }
 
